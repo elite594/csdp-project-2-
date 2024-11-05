@@ -1,6 +1,7 @@
 # Decimal to Binary Converter
 
-This program converts a decimal number to its binary representation using a linked list implementation.
+This program converts a decimal number to a binary number
+
 
 ## Files
 
@@ -10,8 +11,3 @@ This program converts a decimal number to its binary representation using a link
 4. **BinaryConverter.h**: Declares the BinaryConverter class, which performs the conversion.
 5. **BinaryConverter.cpp**: Implements the BinaryConverter methods.
 
-## Compilation
-
-To compile the program, use the following command:
-```bash
-g++ main.cpp BinaryConverter.cpp -o DecimalToBinary
