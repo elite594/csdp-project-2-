@@ -6,7 +6,7 @@ int main() {
     std::cout << "Enter a decimal number: ";
     std::cin >> decimalNumber;
 
-    // Instantiate BinaryConverter and perform conversion
+    
     BinaryConverter converter(decimalNumber);
     std::string binaryRepresentation = converter.convert();
 
